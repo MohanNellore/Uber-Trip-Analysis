@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Power BI temp / autosave files
+*.pbix.tmp
+*.pbi.autosave
+~$*
